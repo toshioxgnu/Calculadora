@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora-Gonzalez-Venegas", "Calculadora-Gonzalez-Venegas\Calculadora-Gonzalez-Venegas.csproj", "{568E8206-F32D-4DDB-AA6F-3EFDCD215CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{568E8206-F32D-4DDB-AA6F-3EFDCD215CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568E8206-F32D-4DDB-AA6F-3EFDCD215CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568E8206-F32D-4DDB-AA6F-3EFDCD215CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568E8206-F32D-4DDB-AA6F-3EFDCD215CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CB1E25D-6E04-4C4F-8875-B590FE602F9C}
+	EndGlobalSection
+EndGlobal
